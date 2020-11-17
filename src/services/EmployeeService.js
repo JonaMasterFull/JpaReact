@@ -1,4 +1,5 @@
-import axios from 'axios'
+import axios from 'axios';
+
 
 const EMPLOYEE_API_BASE_URL = "https://base-de-datos-mysql.herokuapp.com/api/empleado";
 
